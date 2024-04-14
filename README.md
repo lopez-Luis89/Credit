@@ -31,7 +31,7 @@ This project is a part of the AAI-501 course in the Applied Artificial Intellige
 ## Project Intro/Objective
 This project centers on classifying good vs bad credit risk
 
-Dataset URL: 
+Dataset URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 ## Partner(s)/Contributor(s)  
 •	Andrew Roehr, Scott Hogan and Luis Lopez <br/>
