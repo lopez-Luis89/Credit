@@ -194,7 +194,7 @@ Our approach involves:<br/>
 		◦	Standardizing features.<br/>
 	•	Exploratory Data Analysis (EDA):<br/>
 		◦	Simulating performance scores.<br/>
-		◦	Balancing Daataset.<br/>
+		◦	Balancing dataset.<br/>
 	•	Feature Engineering:<br/>
 	◦	Classification: Naive-Bayes Classifier, XGBOOST, Random Forest.<br/>
 
