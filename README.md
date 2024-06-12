@@ -1,4 +1,6 @@
 # Credit Classifier
+## Medium Post: https://medium.com/@luislopez_62329/enhancing-credit-risk-prediction-with-crsp-dm-89a789fca0d5
+
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). <br/>
 
 -- Project Status: [Completed]
